@@ -96,6 +96,12 @@
 
 
     },
+    "lodovisual": {
+      "Plateforme visuelle de codage en direct, chaque utilisateur connecté a l'aide d'un navigateur agit comme un nœud d'un synthétiseur vidéo modulaire et distribué."
+    },
+    "adprotege": {
+      "description": "Application décentralisée (dApp) similaire à Bitcoin, utilisant la crypto pour récompenser les utilisateurs pour l'ajout ou la validation de contenu"
+    },
     "cityfew": {
       "description": "Club d'adhésion en e-commerce programmatique avant-vente et après-vente. Opportunités de vente uniques ! Chaque produit est accompagné de son propre ensemble de règles. Chaque \"règle\" de vente est personnalisée et utilisée pour offrir une expérience riche et exclusive aux acheteurs et vendeurs."
     },
